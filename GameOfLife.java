@@ -33,6 +33,7 @@ public class GameOfLife implements Board {
     {
         print();
         // Update the game board, store a 1 if the cell is alive and a 0 otherwise.
+        for()
     }
 
 
